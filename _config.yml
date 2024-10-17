@@ -1,18 +1,19 @@
-# Basic settings
-title: "Your Name"
-email: "youremail@example.com"
-description: "Academic Profile of Your Name"
-baseurl: ""
-url: "https://marina.github.io"
+title: Marina Gul
+email: marina.gul@iba-suk.edu.pk
+logo: /assets/img/logo.png
+description: #Data Scientist
+  
+url: "https://marina-gul.github.io/portfolio" # Your website URL
 
-# Social media links
-twitter_username: yourusername
-github_username: yourusername
-linkedin_username: yourusername
+show_downloads: FALSE
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
 
-# Theme
-theme: minima
-
-# Other settings
-markdown: kramdown
-highlighter: rouge
+author:
+  name: Marina Gul
+  email: marina.gul@iba-suk.edu.pk
+  bio: Hi, I'm **Marina**, a computer scientist and researcher specializing in big data clustering, NLP, and AI applications. This site showcases my projects and research.
+  location: Khairpur, Pakistan
+  github: https://github.com/Marina-Gul
+  linkedin: www.linkedin.com/in/marina-rajput-6228156b
